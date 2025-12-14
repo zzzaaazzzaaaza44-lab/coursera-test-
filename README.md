@@ -30,7 +30,7 @@ The project demonstrates my ability to design logical systems, organize data, an
 - HTML
 - CSS
 - JavaScript  
-*(or add other technologies if used)*
+  
 
 ---
 
@@ -52,7 +52,7 @@ The project demonstrates my ability to design logical systems, organize data, an
 ---
 
 ## 👤 Author
-**Name:** [اكتب اسمك هنا]  
+**Name:** [ IBRAHIM ALAA IBRAHIM ]  
 **Field:** Software Engineering (Applicant for Russian Government Scholarship)
 
 ---
