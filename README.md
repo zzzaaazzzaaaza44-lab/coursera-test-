@@ -25,6 +25,10 @@ The project demonstrates my ability to design logical systems, organize data, an
 - Data validation for inputs
 
 ---
+## 📁 Project Structure
+- index.html → Main user interface
+- style.css → Styling and layout
+- script.js → Application logic and product management functions
 
 ## 🛠️ Technologies Used
 - HTML
